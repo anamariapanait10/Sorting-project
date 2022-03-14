@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1647256923 source:c:\users\ana\desktop\programare\scoala\tema1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+	<chrono>
+	<random>
+	<algorithm>
+
