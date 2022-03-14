@@ -145,7 +145,7 @@ Leadboard:
     9.   Radix Sort (Base 10)
 
 ### numbers = 10^7 - 10^8, step = 5 * 10^6, max_val = 10^14
-![image](https://github.com/anamariapanait10/.../blob/main/...)
+![image](https://github.com/anamariapanait10/Sorting-project/blob/main/numbers%20%3D%2010%5E7%20-%2010%5E8%2C%20step%20%3D%205%20_%2010%5E6%2C%20%20max_val%20%3D%2010%5E14.png)
 
 Leadboard:
     1.   Radix Sort (Base 2^16)
