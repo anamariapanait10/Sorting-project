@@ -7,12 +7,12 @@
 This project written in C++ will take a comparative look at 5 sorting algorithms and show
 differences in performance between the 5 algorithms but also the native language sorting algorithm, STL.
 The algoritms were tested with 30 tests with natural numbers. The studied algorithms are:
--	Radix Sort (Base 10 and 2^16)
--	Merge Sort
--	Shell Sort (N/2^k and Knuth)
--	Heap Sort
--	Quick Sort (Randomized and Median of three)
--	STL sort
+    -	Radix Sort (Base 10 and 2^16)
+    -	Merge Sort
+    -	Shell Sort (N/2^k and Knuth)
+    -	Heap Sort
+    -	Quick Sort (Randomized and Median of three)
+    -	STL sort
 
 The program will time each sort and check if the sort was done correctly
 or shows a fail message.
@@ -123,38 +123,44 @@ Auxiliary Space:𝑂(log(𝑛))
 
 ![image](https://github.com/anamariapanait10/Sorting-project/blob/main/10%5E4%20-10%5E6%2C%20step%20%3D%2010%5E4%2C%20val_max%20%3D%2010%5E5.png)
 
-Leadboard:
-    1.   Radix Sort (Base 2^16)
-    2.   STL Sort
-    3.   Radix Sort (Base 10)
-    4/5. Shell Sort (Knuth) / Quick Sort (median of 3)
-    6/7. Heap Sort / Shell Sort
-    8.   Merge Sort
-    9.   Quick Sort (randomized)
+    Leadboard:
+        1.   Radix Sort (Base 2^16)
+        2.   STL Sort
+        3.   Radix Sort (Base 10)
+        4/5. Shell Sort (Knuth) / Quick Sort (median of 3)
+        6/7. Heap Sort / Shell Sort
+        8.   Merge Sort
+        9.   Quick Sort (randomized)
 
 
 ### numbers = 10^6 – 10^7, step = 10^5, max_val = 10^14
 ![image](https://github.com/anamariapanait10/Sorting-project/blob/main/_10%5E6%20-%2010%5E7%2C%20step%20%3D%2010%5E5%2C%20max_val%3D%2010%5E14.png)
-Leadboard:
-    1.   Radix Sort (Base 2^16)
-    2/3. Quick Sort (randomized) / STL Sort
-    4.   Quick Sort (median of 3)
-    5.   Merge Sort
-    6.   Shell Sort (Knuth)
-    7/8. Heap Sort / Shell Sort
-    9.   Radix Sort (Base 10)
+    Leadboard:
+        1.   Radix Sort (Base 2^16) 
+        2/3. Quick Sort (randomized) / STL Sort
+        4.   Quick Sort (median of 3)
+        5.   Merge Sort
+        6.   Shell Sort (Knuth)
+        7/8. Heap Sort / Shell Sort
+        9.   Radix Sort (Base 10)
 
 ### numbers = 10^7 - 10^8, step = 5 * 10^6, max_val = 10^14
 ![image](https://github.com/anamariapanait10/Sorting-project/blob/main/numbers%20%3D%2010%5E7%20-%2010%5E8%2C%20step%20%3D%205%20_%2010%5E6%2C%20%20max_val%20%3D%2010%5E14.png)
 
-Leadboard:
-    1.   Radix Sort (Base 2^16)
-    2/3. Quick Sort (randomized) / STL Sort
-    4.   Quick Sort (median of 3)
-    5.   Merge Sort
-    6.   Shell Sort (Knuth)
-    7/8. Heap Sort / Shell Sort
-    9.   Radix Sort (Base 10)
+    Leadboard:
+        1.   Radix Sort (Base 2^16)
+        
+        2/3. Quick Sort (randomized) / STL Sort
+        
+        4.   Quick Sort (median of 3)
+        
+        5.   Merge Sort
+        
+        6.   Shell Sort (Knuth)
+        
+        7/8. Heap Sort / Shell Sort
+        
+        9.   Radix Sort (Base 10)
 
 
 - Radix Sort in base 2^16 which uses bit operations is much more efficient
