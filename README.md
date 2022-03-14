@@ -121,7 +121,7 @@ Auxiliary Space:𝑂(log(𝑛))
 
 ### numbers = 10^4 – 10^6, step = 10^4, max_val = 10^5
 
-![image](https://github.com/anamariapanait10/.../blob/main/...)
+![image](https://github.com/anamariapanait10/Sorting-project/blob/main/10%5E4%20-10%5E6%2C%20step%20%3D%2010%5E4%2C%20val_max%20%3D%2010%5E5.png)
 
 Leadboard:
     1.   Radix Sort (Base 2^16)
