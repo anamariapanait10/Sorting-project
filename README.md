@@ -48,7 +48,6 @@ Radix sort uses counting sort as a subroutine to sort.
 ### Complexity:
 𝑂 (𝑤*𝑛), where w is the number of digits of numbers and n is the number of numbers
 
-Auxiliary Space: O(n+k) where k is the largest number in the dataset
 Stable: No
 
 ## Merge Sort
@@ -63,6 +62,7 @@ Average case: 𝑂(𝑛log⁡ (𝑛))
 Worst case: 𝑂(𝑛log⁡ (𝑛))
 
 Auxiliary Space: 𝑂(𝑛)
+
 Stable: Yes
 
 
@@ -77,6 +77,7 @@ Average case: 𝑂(𝑛log⁡ (𝑛))
 Worst case: 𝑂(𝑛^2)
 
 Auxiliary Space:𝑂(1)
+
 Stable: No
 
 ## Heap Sort
@@ -91,6 +92,7 @@ Average case: 𝑂(𝑛log⁡ (𝑛))
 Worst case: 𝑂(𝑛log⁡ (𝑛))
 
 Auxiliary Space:𝑂(1)
+
 Stable: No
 
 ## Quick Sort
@@ -107,6 +109,7 @@ Average case: 𝑂(𝑛 log⁡ (𝑛))
 Worst case: 𝑂(𝑛^2)
 
 Auxiliary Space:𝑂(log(𝑛))
+
 Stable: No
 
 ## STL Sort
