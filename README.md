@@ -7,6 +7,7 @@
 This project written in C++ will take a comparative look at 5 sorting algorithms and show
 differences in performance between the 5 algorithms but also the native language sorting algorithm, STL.
 The algoritms were tested with 30 tests with natural numbers. The studied algorithms are:
+
     -	Radix Sort (Base 10 and 2^16)
     -	Merge Sort
     -	Shell Sort (N/2^k and Knuth)
