@@ -134,7 +134,7 @@ Leadboard:
 
 
 ### numbers = 10^6 – 10^7, step = 10^5, max_val = 10^14
-![image](https://github.com/anamariapanait10/.../blob/main/...)
+![image](https://github.com/anamariapanait10/Sorting-project/blob/main/_10%5E6%20-%2010%5E7%2C%20step%20%3D%2010%5E5%2C%20max_val%3D%2010%5E14.png)
 Leadboard:
     1.   Radix Sort (Base 2^16)
     2/3. Quick Sort (randomized) / STL Sort
