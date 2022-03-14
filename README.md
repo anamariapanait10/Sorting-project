@@ -149,17 +149,11 @@ Auxiliary Space:𝑂(log(𝑛))
 
     Leadboard:
         1.   Radix Sort (Base 2^16)
-        
         2/3. Quick Sort (randomized) / STL Sort
-        
         4.   Quick Sort (median of 3)
-        
         5.   Merge Sort
-        
         6.   Shell Sort (Knuth)
-        
         7/8. Heap Sort / Shell Sort
-        
         9.   Radix Sort (Base 10)
 
 
